@@ -1,6 +1,6 @@
 # weather
 
-Weather App Design By Yusril Eka Mahendra
+Weather App - Yusril Eka Mahendra
 
 ![weather](https://user-images.githubusercontent.com/65325397/92462367-9574de80-f1f4-11ea-8758-f56079b556b2.png)
 
